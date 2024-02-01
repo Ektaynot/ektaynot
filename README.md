@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm İsmail Efe</h1>
 <h3 align="center">A 19-year-old software developer from Turkey.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ektaynot" alt="ektaynot" /></a> </p>
-
 - 🌱 I’m currently learning **Rust, Machine Learning and Web Scraping**
 
 - 📝 I regularly write articles on [https://ismailefe.org](https://ismailefe.org)
