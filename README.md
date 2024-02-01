@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Machine Learning and Web Scraping**
 
-- 👨‍💻 All of my projects are available at [https://ismailefe.top](https://ismailefe.top)
-
-- 📝 I regularly write articles on [https://ismailefe.top/blog](https://ismailefe.top/blog)
+- 📝 I regularly write articles on [https://ismailefe.top/blog](https://ismailefe.org)
 
 - 💬 Ask me about **Python, politics, linux, music and scripting.**
 
